@@ -1,0 +1,460 @@
+{
+    "header": {
+        "name": "Lia J",
+        "title": "Full Stack Engineer | Principal Full Stack Engineer | Software Architect",
+        "email": "lianal.john@gmail.com",
+        "phone": "+91 8861045470",
+        "location": "Bangalore, Karnataka, India",
+        "bio": "Full Stack Engineer and Software Architect with 14.5+ years of experience designing, developing, and optimizing scalable web applications across e-commerce, SaaS, education, enterprise, aviation, gaming, and digital media domains. Strong hands-on experience across frontend and backend development using Angular, React, Vue, JavaScript, TypeScript, Node.js, Express.js, Python, RESTful APIs, MongoDB, and MySQL. Experienced in designing modular application architectures, reusable UI components, backend services, API integrations, database solutions, performance optimization, testing, and CI/CD. Proven ability to lead engineering teams, translate business requirements into robust technical solutions.",
+        "links": {
+            "email_link": "mailto:lianal.john@gmail.com",
+            "phone_link": "tel:+918861045470",
+            "github": "https://github.com"
+        }
+    },
+    "experience": [
+        {
+            "id": 1,
+            "title": "Senior Architect",
+            "company": "Persistent Systems, Pune",
+            "period": "March 2023 - October 2025",
+            "description": "Led end-to-end architecture and development of enterprise web applications across frontend, backend, API, database, testing, and deployment layers.",
+            "highlights": [
+                "Designed scalable application architecture using Angular/React, TypeScript, Node.js, Express.js, RESTful APIs, MongoDB, and supporting integrations.",
+                "Developed reusable frontend modules and backend services, establishing clear separation of concerns and maintainable application patterns.",
+                "Designed and integrated RESTful APIs and optimized service communication, data access, caching, and application performance.",
+                "Worked with MongoDB and SQL-based data solutions to support application features, data persistence, and scalable backend services.",
+                "Improved application performance and load time by 40% through frontend rendering, API, caching, build, and backend optimization.",
+                "Established coding standards, CI/CD practices, automated testing, code reviews, and engineering best practices across full stack teams.",
+                "Mentored engineers and collaborated with product, UX, QA, and DevOps teams to deliver secure, maintainable, and high-performing solutions."
+            ],
+            "skills": [
+                "Architecture",
+                "React",
+                "Angular",
+                "TypeScript",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Architect of Consumer",
+            "company": "JP Morgan Chase & Co, Pune",
+            "period": "February 2021 - April 2022",
+            "description": "Contributed to the architecture and development of scalable web and mobile applications across presentation, service integration, API, and application layers.",
+            "highlights": [
+                "Designed reusable frontend components and application modules using modern JavaScript frameworks, TypeScript, and responsive web technologies.",
+                "Collaborated with backend engineers on REST API integration, service contracts, data flow, error handling, and application performance.",
+                "Supported development of maintainable application architecture with emphasis on reusable components, consistent patterns, accessibility, and scalability.",
+                "Developed a centralized UI component library, reducing design and development time by 30%, while supporting integration with application services.",
+                "Worked closely with product, UX, QA, and engineering teams to deliver reliable end-to-end features and improve application responsiveness."
+            ],
+            "skills": [
+                "UI Architecture",
+                "Design Systems",
+                "Angular",
+                "React",
+                "Component Library",
+                "TypeScript",
+                "REST APIs"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Principal Software Engineer",
+            "company": "Operative India (parent company SintecMedia Pvt Ltd), Bangalore",
+            "period": "November 2019 - February 2021",
+            "description": "Provided technical leadership for full stack web application development, taking ownership of architecture, feature development, API integration, and application optimization.",
+            "highlights": [
+                "Built complex application features using modern frontend frameworks, JavaScript/TypeScript, Node.js, Express.js, and RESTful APIs.",
+                "Designed reusable modules and service integrations to improve maintainability, scalability, and development productivity.",
+                "Worked with MongoDB and backend services to support application data requirements and improve service performance.",
+                "Optimized application speed and scalability through frontend optimization, backend refactoring, API improvements, and efficient data access.",
+                "Standardized development workflows, code reviews, testing practices, and deployment processes.",
+                "Mentored engineers and collaborated with product and cross-functional teams to translate requirements into end-to-end technical solutions."
+            ],
+            "skills": [
+                "React",
+                "Angular",
+                "JavaScript",
+                "TypeScript",
+                "Node.js",
+                "Performance Optimization",
+                "Team Leadership"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Associate Technical Manager",
+            "company": "ScrumStart (parent company SRKay Consulting Group LLP), Pune",
+            "period": "August 2018 - June 2019",
+            "description": "Led a team of developers in designing, developing, testing, and maintaining full stack web applications.",
+            "highlights": [
+                "Worked across frontend and backend layers to deliver end-to-end product features, service integrations, and responsive user experiences.",
+                "Contributed to frontend development using modern JavaScript frameworks and supported backend/API integration using Node.js and Express.js.",
+                "Designed and consumed RESTful APIs and collaborated with backend teams on service contracts, validation, error handling, and data flow.",
+                "Participated in application architecture, performance optimization, debugging, code reviews, and technical decision-making.",
+                "Established coding standards and best practices while mentoring developers and coordinating delivery with product, design, QA, and backend teams."
+            ],
+            "skills": [
+                "Team Leadership",
+                "Frontend Architecture",
+                "Angular",
+                "Node.js",
+                "Code Quality",
+                "Agile"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Senior Software Engineer",
+            "company": "Indecomm Global Services Pvt Ltd, Bangalore",
+            "period": "August 2015 - December 2017",
+            "description": "Developed and maintained web application features across frontend and backend layers, contributing to end-to-end delivery.",
+            "highlights": [
+                "Implemented responsive user interfaces and integrated application services through RESTful APIs and backend service endpoints.",
+                "Worked with JavaScript, HTML5, CSS3, and modern web development practices to build reusable and maintainable application modules.",
+                "Supported backend development and service integration using Node.js/Express.js where applicable, including API communication and data handling.",
+                "Participated in database integration, debugging, performance optimization, testing, code reviews, and production support.",
+                "Collaborated with cross-functional teams to understand requirements and deliver complete application features."
+            ],
+            "skills": [
+                "React",
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "Node.js",
+                "Performance",
+                "REST APIs"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Application Developer",
+            "company": "Smart Technology, Chennai",
+            "period": "September 2014 - August 2015",
+            "description": "Developed web application functionality across UI, application logic, service integration, and data handling layers.",
+            "highlights": [
+                "Built responsive interfaces using HTML5, CSS3, and JavaScript and integrated frontend functionality with backend services.",
+                "Worked with RESTful service integration, API communication, validation, error handling, and application debugging.",
+                "Supported database-driven application functionality and participated in performance optimization and defect resolution.",
+                "Collaborated with developers and stakeholders to deliver application enhancements and maintain existing systems."
+            ],
+            "skills": [
+                "JavaScript",
+                "HTML5",
+                "CSS3",
+                "REST APIs",
+                "jQuery"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Flash Programmer",
+            "company": "Satvat Infosol Pvt Ltd, Chennai",
+            "period": "December 2013 - August 2014",
+            "description": "Developed interactive web and multimedia application features with a focus on application logic, user interaction, and integration.",
+            "highlights": [
+                "Implemented reusable components and interactive functionality using ActionScript and web technologies.",
+                "Worked with application data, service integration, debugging, and performance optimization as part of end-to-end feature delivery.",
+                "Collaborated with designers and developers to integrate frontend experiences with application functionality and supporting services."
+            ],
+            "skills": [
+                "ActionScript",
+                "Flash",
+                "Interactive Media",
+                "Web Technologies"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Jr. Developer",
+            "company": "Cosmic Global Ltd, Chennai",
+            "period": "August 2012 - July 2013",
+            "description": "Supported development and maintenance of web application features across UI, application logic, and data-driven functionality.",
+            "highlights": [
+                "Implemented frontend components using HTML, CSS, JavaScript, and related web technologies.",
+                "Assisted with API/service integration, debugging, testing, and application issue resolution.",
+                "Worked with senior developers to understand requirements, implement features, and maintain application quality."
+            ],
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Web Development"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Pre Editor",
+            "company": "Anonsia Interiors, Chennai",
+            "period": "July 2010 - July 2012",
+            "description": "Supported digital content and web production activities, including preparation, validation, and maintenance of web-ready content.",
+            "highlights": [
+                "Worked with web and multimedia tools to prepare structured digital assets and ensure content quality.",
+                "Collaborated with design and development teams to support delivery of web-based digital experiences.",
+                "Built foundational experience in web technologies, content workflows, quality checking, and digital production."
+            ],
+            "skills": [
+                "Content Management",
+                "Web Technologies",
+                "Digital Production"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "degree": "B.Sc., Mathematics",
+            "school": "Annai College of Arts And Science, Kumbakonam, TamilNadu (Bharathidasan University)",
+            "year": "2010",
+            "details": "GPA: 67.57%"
+        },
+        {
+            "id": 2,
+            "degree": "12th Grade (State Board)",
+            "school": "Lord Seven Hills Hr. Sec. School, Mannargudi, TamilNadu",
+            "year": "2004",
+            "details": "GPA: 77%"
+        },
+        {
+            "id": 3,
+            "degree": "10th Grade (State Board)",
+            "school": "Nationa Hr. Secondary School, Mannargudi, TamilNadu",
+            "year": "2002",
+            "details": "GPA: 71%"
+        },
+        {
+            "id": 4,
+            "degree": "Multimedia Development and Editing",
+            "school": "Certification",
+            "year": "2010",
+            "details": "Professional multimedia development training"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Frontend",
+            "skills": [
+                "Angular 2-20",
+                "React 16+",
+                "Vue 2/3",
+                "JavaScript ES5/ES6",
+                "TypeScript",
+                "HTML5",
+                "CSS3/4",
+                "RxJS",
+                "NgRx",
+                "Redux",
+                "Tailwind",
+                "Bootstrap"
+            ]
+        },
+        {
+            "category": "Backend & APIs",
+            "skills": [
+                "Node.js",
+                "Express.js",
+                "Python",
+                "RESTful APIs",
+                "Axios",
+                "Mongoose",
+                "Multer",
+                "Crypto"
+            ]
+        },
+        {
+            "category": "Databases",
+            "skills": [
+                "MongoDB",
+                "MySQL",
+                "SQL"
+            ]
+        },
+        {
+            "category": "Architecture & Design",
+            "skills": [
+                "Full Stack Application Architecture",
+                "REST API Design",
+                "Modular Architecture",
+                "Design Patterns",
+                "Reusable Components",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "category": "Testing & Quality",
+            "skills": [
+                "Jest",
+                "Jasmine",
+                "Playwright",
+                "Storybook",
+                "Vitest",
+                "Cypress",
+                "Karma",
+                "Mocha",
+                "Chromatic"
+            ]
+        },
+        {
+            "category": "DevOps & Tools",
+            "skills": [
+                "Git",
+                "Bitbucket",
+                "Jenkins",
+                "Bamboo CI",
+                "Rundeck",
+                "Jira",
+                "Apache",
+                "Nginx"
+            ]
+        },
+        {
+            "category": "Hybrid & Mobile",
+            "skills": [
+                "Ionic",
+                "Cordova/Capacitor",
+                "Flutter",
+                "React Native"
+            ]
+        },
+        {
+            "category": "API & Integrations",
+            "skills": [
+                "YouTube API",
+                "Dailymotion",
+                "Video.js",
+                "Firebase",
+                "AG Grid",
+                "PDF.js",
+                "Phaser.io",
+                "HLS/HDS/Akamai",
+                "Cashfree",
+                "Razorpay"
+            ]
+        },
+        {
+            "category": "Other Skills",
+            "skills": [
+                "Responsive Design",
+                "Accessibility",
+                "Agile",
+                "Code Review",
+                "Debugging",
+                "CI/CD",
+                "Integration Testing",
+                "Cross-browser Compatibility"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "Frontend Architecture & Design Systems",
+            "description": "Architected modular, scalable frontend frameworks and implemented unified design systems across multiple products.",
+            "technologies": [
+                "React",
+                "Angular",
+                "TypeScript",
+                "Design Systems",
+                "Component Library"
+            ],
+            "highlights": "30% improvement in code reusability, 40% performance enhancement, Consistent UI across platforms"
+        },
+        {
+            "id": 2,
+            "title": "Large-Scale Web Application Development",
+            "description": "Led design and development of enterprise-grade web applications for e-commerce, SaaS, and education platforms.",
+            "technologies": [
+                "React",
+                "Angular",
+                "Vue",
+                "JavaScript",
+                "HTML5",
+                "CSS3"
+            ],
+            "highlights": "Scalable architecture, High performance, 30% development cycle acceleration"
+        },
+        {
+            "id": 3,
+            "title": "UI Component Libraries & Design Tokens",
+            "description": "Developed centralized UI component libraries ensuring visual consistency and reducing development time.",
+            "technologies": [
+                "Storybook",
+                "TypeScript",
+                "CSS3/4",
+                "Design Tokens",
+                "Chromatic"
+            ],
+            "highlights": "30% reduction in design time, Cross-platform consistency, Enhanced maintainability"
+        },
+        {
+            "id": 4,
+            "title": "Performance Optimization & Modernization",
+            "description": "Modernized legacy systems and optimized application performance through efficient rendering and build optimizations.",
+            "technologies": [
+                "React",
+                "Angular",
+                "Webpack",
+                "Performance APIs",
+                "Caching Strategies"
+            ],
+            "highlights": "40% load time reduction, Legacy system migration, Code refactoring"
+        },
+        {
+            "id": 5,
+            "title": "Video Streaming & Multimedia Solutions",
+            "description": "Implemented video streaming solutions with HLS/HDS/Akamai integration and interactive multimedia experiences.",
+            "technologies": [
+                "Video.js",
+                "HLS/HDS",
+                "Akamai",
+                "Snap-SVG",
+                "Canvas API"
+            ],
+            "highlights": "Streaming optimization, Cross-platform support, Rich media experiences"
+        },
+        {
+            "id": 6,
+            "title": "Team Leadership & CI/CD Integration",
+            "description": "Established coding standards, mentored development teams, and implemented CI/CD for seamless deployments.",
+            "technologies": [
+                "Git",
+                "CI/CD",
+                "Jest",
+                "Playwright",
+                "Agile Methodologies"
+            ],
+            "highlights": "Technical excellence, Faster release cycles, Team productivity increase"
+        }
+    ],
+    "domains": [
+        "E-Commerce",
+        "SaaS",
+        "Enterprise Applications",
+        "Banking",
+        "Aviation",
+        "Online Gaming",
+        "E-Learning",
+        "Digital Media",
+        "Advertising Platforms",
+        "Localization Engineering"
+    ],
+    "certifications": [
+        {
+            "id": 1,
+            "title": "Multimedia Development and Editing",
+            "date": "June 2010"
+        }
+    ],
+    "languages": [
+        {
+            "id": 1,
+            "language": "English",
+            "proficiency": "Proficient (Read, Write, Speak)"
+        }
+    ]
+}
