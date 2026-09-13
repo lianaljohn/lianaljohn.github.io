@@ -1,0 +1,149 @@
+{
+    "name": "Lia John",
+    "shortName": "LJ",
+    "headline": "Full Stack Engineer | Principal Web Architect | Mobile Hybrid Developer",
+    "role": "MEAN/MERN Stack Developer",
+    "phone": "+91 8861045470",
+    "email": "lianal.john@gmail.com",
+    "location": "Bangalore, Karnataka, India",
+    "availability": "Open to relocation",
+    "github": "https://github.com/lianaljohn",
+    "linkedIn": "https://www.linkedin.com/in/lia-john-13a7102a7/",
+    "summary": "Full Stack Engineer, Web Architect and Mobile Hybrid Developer with 14.5+ years of experience designing, developing, and optimizing scalable web applications across e-commerce, SaaS, education, enterprise, aviation, gaming, and digital media domains.",
+    "summaryDetail": "Strong hands-on experience across frontend and backend development using Angular, React, Vue, JavaScript, TypeScript, Node.js, Express.js, Python, RESTful APIs, MongoDB, and MySQL. Experienced in modular application architectures, reusable UI components, backend services, API integrations, database solutions, performance optimization, testing, and CI/CD.",
+    "services": [
+        {
+            "title": "Full Stack Architecture",
+            "text": "Designing modular, scalable web applications across frontend, backend, APIs, databases, testing, and deployment."
+        },
+        {
+            "title": "Web Engineering",
+            "text": "Building reusable UI components, service integrations, responsive interfaces, and high-performing enterprise products."
+        },
+        {
+            "title": "Mobile Hybrid Development",
+            "text": "Developing cross-platform experiences with Ionic, Cordova, Capacitor, Flutter, and React Native."
+        }
+    ],
+    "skills": [
+        {
+            "category": "Frontend",
+            "items": "Angular 2-20, React 16+, Vue 2/3, JavaScript ES5/ES6, TypeScript, HTML5, CSS3/4, RxJS, NgRx, Redux, Tailwind, Bootstrap"
+        },
+        {
+            "category": "Backend",
+            "items": "Node.js, Express.js, Python, RESTful APIs, Axios, Mongoose, Multer, Crypto"
+        },
+        {
+            "category": "Databases",
+            "items": "MongoDB, MySQL, SQL"
+        },
+        {
+            "category": "Architecture",
+            "items": "Full Stack Application Architecture, REST API Design, Modular Architecture, Design Patterns, Reusable Components, Performance Optimization"
+        },
+        {
+            "category": "Testing",
+            "items": "Jest, Jasmine, Playwright, Storybook, Vitest, Cypress, Karma, Mocha, Chromatic"
+        },
+        {
+            "category": "DevOps and Tools",
+            "items": "Git, Bitbucket, Jenkins, Bamboo CI, Rundeck, Jira, Apache, Nginx"
+        },
+        {
+            "category": "Hybrid and Mobile",
+            "items": "Ionic, Cordova/Capacitor, Flutter, React Native"
+        },
+        {
+            "category": "Practices",
+            "items": "Responsive Design, Accessibility, Agile, Code Review, Debugging, CI, Integration Testing, Cross-browser Compatibility"
+        }
+    ],
+    "experience": [
+        {
+            "period": "March 2023 - October 2025",
+            "role": "Senior Architect",
+            "company": "Persistent Systems, Pune",
+            "details": "Led end-to-end architecture and development of enterprise web applications across frontend, backend, API, database, testing, and deployment layers. Improved application performance and load time by 40%, established CI/CD and testing practices, and mentored full-stack teams."
+        },
+        {
+            "period": "February 2021 - April 2022",
+            "role": "Architect of Consumer",
+            "company": "JP Morgan Chase & Co, Pune",
+            "details": "Contributed to scalable web and mobile applications, designed reusable TypeScript components, and developed a centralized UI component library that reduced design and development time by 30%."
+        },
+        {
+            "period": "November 2019 - February 2021",
+            "role": "Principal Software Engineer",
+            "company": "Operative India, Bangalore",
+            "details": "Provided technical leadership for full-stack development, architecture, API integration, application optimization, development workflows, code reviews, testing, and deployment processes."
+        },
+        {
+            "period": "August 2018 - June 2019",
+            "role": "Associate Technical Manager",
+            "company": "ScrumStart, Pune",
+            "details": "Led developers delivering full-stack web applications, REST API integrations, responsive experiences, performance improvements, code reviews, and technical decisions."
+        },
+        {
+            "period": "August 2015 - December 2017",
+            "role": "Senior Software Engineer",
+            "company": "Indecomm Global Services Pvt Ltd, Bangalore",
+            "details": "Developed and maintained responsive web application features, REST integrations, reusable modules, database integrations, testing, performance optimization, and production support."
+        },
+        {
+            "period": "September 2014 - August 2015",
+            "role": "Application Developer",
+            "company": "Smart Technology, Chennai",
+            "details": "Built responsive interfaces, integrated REST services, handled validation and error flows, supported database-driven features, and resolved performance and production issues."
+        },
+        {
+            "period": "December 2013 - August 2014",
+            "role": "Flash Programmer",
+            "company": "Satvat Infosol Pvt Ltd, Chennai",
+            "details": "Developed interactive web and multimedia features, reusable components, application logic, service integrations, and performance improvements."
+        },
+        {
+            "period": "August 2012 - July 2013",
+            "role": "Jr. Developer",
+            "company": "Cosmic Global Ltd, Chennai",
+            "details": "Supported web application features, frontend components, API integration, debugging, testing, and issue resolution."
+        },
+        {
+            "period": "July 2010 - July 2012",
+            "role": "Pre Editor",
+            "company": "Anonsia Interiors, Chennai",
+            "details": "Supported digital content and web production, prepared structured digital assets, and collaborated with design and development teams."
+        }
+    ],
+    "integrations": [
+        "YouTube",
+        "Dailymotion",
+        "Video.js",
+        "Firebase",
+        "AG Grid",
+        "PDF.js",
+        "Phaser.io",
+        "HLS/HDS/Akamai video streaming",
+        "Cashfree",
+        "Razorpay"
+    ],
+    "domains": [
+        "E-Commerce",
+        "SaaS",
+        "Enterprise Applications",
+        "Banking",
+        "Aviation",
+        "Online Gaming",
+        "E-Learning",
+        "Digital Media",
+        "Advertising Platforms",
+        "Localization Engineering"
+    ],
+    "education": [
+        "B.Sc. | 2010 | GPA: 67.57%"
+    ],
+    "certification": "Multimedia Development and Editing - June 2010",
+    "languages": [
+        "English - Proficient (Read, Write, Speak)"
+    ]
+}
